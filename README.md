@@ -15,6 +15,7 @@
 <div> 
   <a href="https://www.instagram.com/almeidadrk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:almeidadrk@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://i.picasion.com/pic92/61c42dfb0aa89149c439199e4eca2869.gif)">
   
    ![Snake animation](https://github.com/Almeidadrk/Almeidadrk/blob/output/github-contribution-grid-snake.svg)
  
