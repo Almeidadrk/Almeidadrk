@@ -1,7 +1,7 @@
 ### Olá! Eu sou Matheus Almeida 😎
 
 - 📚 Cursando 1º Semestre em Ciênc. da Computação
-- 🌱 Estudando Python / JS
+- 🌱 Estudando Python | JS | C++
 - 😄 Pronome: ele/dele
 ##
 <div align="center">
